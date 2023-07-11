@@ -3,7 +3,7 @@
 This Python script converts English text into IPA, then back again. Proper spelling is lost in translation.
 
 Essentially:
->A sentence like this, with nary a blemish.
+>A pristine sentence like this, with nary a blemish.
 
 becomes:
 >a pressteen zentanss llaik diz, wed nerii a bllehmesh.
